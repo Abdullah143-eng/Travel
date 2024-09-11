@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #007bff !important;
+}
+
+.about-section {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+}
+
+.about-section h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.mission-section {
+    background-color: #f1f1f1;
+    padding: 40px;
+}
+
+.mission-section h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.team-section h2 {
+    color: #007bff;
+    margin-bottom: 40px;
+}
+
+.card-img-top {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-body h5 {
+    color: #007bff;
+}
+
+footer {
+    background-color: #007bff;
+    color: #ffffff;
+}
